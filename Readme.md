@@ -24,7 +24,7 @@ None
 
  Download the [Node.js](https://nodejs.org/en/download/prebuilt-installer)
 
- Download the [mysql](https://dev.mysql.com/downloads/installer/)
+ Download the [mysql](https://dev.mysql.com/downloads/mysql/)
 
 # Main Function
 
