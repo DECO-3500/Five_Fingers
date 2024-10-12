@@ -146,9 +146,8 @@ Then
 ```bash
 npm run serve
 ```
-Open browser
 
-paste the Local: http://localhost:8080/
+paste local to browser   or click [here](http://localhost:8080/)
 
  # Contributer
 
