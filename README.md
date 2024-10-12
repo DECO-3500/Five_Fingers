@@ -5,6 +5,15 @@ A travle website based on Vue.js and Express, including features like comments, 
 # Background
 None
 
+# Table of Contents
+
+- [Install](#install)
+
+- [Main Function](#main-function)
+
+- [Usage](#usage)
+
+- [Contributer](#contributer)
 
 # Install
 <p align="left">
@@ -104,10 +113,15 @@ Modify the MySQL database file: Change the username and password to your own, us
 
 In the express-client directory, run the command in the cmd: node app.js.
 
+```bash
+node app.js
+```
+
 In the my-project directory, run the command in the cmd: npm run serve.
 
-
-
+```bash
+npm run serve
+```
 
 # Related Efforts
 
