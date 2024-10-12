@@ -4,11 +4,17 @@ Hi! I'm your first Markdown file in **Five_fingers**. If you want to learn about
 
 
 # Background
-
+None
 
 
 # Install
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+ Download the [Node.js](https://nodejs.org/en/download/prebuilt-installer)
+ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 
 # Usage
@@ -32,3 +38,5 @@ There are two types of synchronization and they can complement each other:
 
 - The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
 	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
+
+ # Contributer
