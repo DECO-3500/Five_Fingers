@@ -111,6 +111,18 @@ This is the welcome page users see when they enter the app, providing a brief in
 # Usage
 Modify the MySQL database file: Change the username and password to your own, usually root and 123456.
 
+```bash
+CREATE DATABASE [NAME];
+source E:/path_to_your_files/user_info.sql;
+```
+You can use
+
+```bash
+SHOW TABLES
+```
+
+to help you check if it is finished successfully.
+
 In the express-client directory, run the command in the cmd: node app.js.
 
 ```bash
@@ -123,6 +135,20 @@ In the my-project directory, run the command in the cmd: npm run serve.
 npm install
 npm run serve
 ```
+
+If after (npm run serve) there is error, please add this code
+
+```bash
+npm install sass-loader node-sass --save-dev
+```
+Then
+
+```bash
+npm run serve
+```
+Open browser
+
+paste the Local: http://localhost:8080/
 
  # Contributer
 
