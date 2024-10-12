@@ -120,6 +120,7 @@ node app.js
 In the my-project directory, run the command in the cmd: npm run serve.
 
 ```bash
+npm install
 npm run serve
 ```
 
