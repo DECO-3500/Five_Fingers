@@ -26,6 +26,37 @@ None
 
  Download the [mysql](https://dev.mysql.com/downloads/mysql/)
 
+ # Usage
+Modify the MySQL database file: Change the username and password to your own, usually root and 123456.
+
+```bash
+CREATE DATABASE [NAME];
+source E:/path_to_your_files/user_info.sql;
+```
+You can use
+
+```bash
+SHOW TABLES
+```
+
+to help you check if it is finished successfully.
+
+In the express-client directory, run the command in the cmd: node app.js.
+
+```bash
+node app.js
+```
+
+In the my-project directory, run the command in the cmd: npm run serve.
+
+```bash
+npm install
+npm install sass-loader node-sass --save-dev
+npm run serve
+```
+
+paste local to browser   or click [here](http://localhost:8080/)
+
 # Main Function
 
 ### 1. Welcome page
@@ -98,36 +129,7 @@ This is the welcome page users see when they enter the app, providing a brief in
 
 	- Includes image displays, text descriptions, historical background, user ratings, and comment functionality.
 
-# Usage
-Modify the MySQL database file: Change the username and password to your own, usually root and 123456.
 
-```bash
-CREATE DATABASE [NAME];
-source E:/path_to_your_files/user_info.sql;
-```
-You can use
-
-```bash
-SHOW TABLES
-```
-
-to help you check if it is finished successfully.
-
-In the express-client directory, run the command in the cmd: node app.js.
-
-```bash
-node app.js
-```
-
-In the my-project directory, run the command in the cmd: npm run serve.
-
-```bash
-npm install
-npm install sass-loader node-sass --save-dev
-npm run serve
-```
-
-paste local to browser   or click [here](http://localhost:8080/)
 
  # Contributer
 
