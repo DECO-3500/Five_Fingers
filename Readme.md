@@ -133,17 +133,7 @@ In the my-project directory, run the command in the cmd: npm run serve.
 
 ```bash
 npm install
-npm run serve
-```
-
-If after (npm run serve) there is error, please add this code
-
-```bash
 npm install sass-loader node-sass --save-dev
-```
-Then
-
-```bash
 npm run serve
 ```
 
