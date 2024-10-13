@@ -78,13 +78,8 @@ This is the welcome page users see when they enter the app, providing a brief in
 
 	- Can include a terms page that outlines privacy policies.
 
-### 3. Main Menu Page
 
-- The main page users see after logging in, providing quick links to core features.
-
-- Includes navigation buttons for accessing the community, travel companion matching, personal profile, AR features, and Local Favourites.
-
-### 4. Community Page
+### 4. Discovery Page
 
 - Users can browse posts from other travelers and share their own travel experiences.
 
@@ -119,15 +114,6 @@ This is the welcome page users see when they enter the app, providing a brief in
 
 - Displays recently viewed local shops, and users can leave comments.
 
-### 9. Settings Page
-
-- Users can manage account settings and app preferences, such as notification settings, language preferences, and account privacy options.
-
-### 10. Location Details Page
-
-- After clicking on a community or recommended destination, users will be redirected to this page, which displays detailed information about the landmark or attraction.
-
-	- Includes image displays, text descriptions, historical background, user ratings, and comment functionality.
 
 
 
