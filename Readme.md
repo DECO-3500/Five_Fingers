@@ -31,15 +31,12 @@ Modify the MySQL database file: Change the username and password to your own, us
 
 ```bash
 CREATE DATABASE [NAME];
-source E:/path_to_your_files/user_info.sql;
 ```
-You can use
 
 ```bash
-SHOW TABLES
+source E:/path_to_your_files/user_info.sql;
 ```
 
-to help you check if it is finished successfully.
 
 In the express-client directory, run the command in the cmd: node app.js.
 
@@ -51,7 +48,13 @@ In the my-project directory, run the command in the cmd: npm run serve.
 
 ```bash
 npm install
+```
+
+```bash
 npm install sass-loader node-sass --save-dev
+```
+
+```bash
 npm run serve
 ```
 
