@@ -39,7 +39,7 @@ This is the welcome page users see when they enter the app, providing a brief in
 
 	- Provides a "Forgot Password" option to help users reset their password.
 
-	- Supports quick login through social media platforms (e.g., Google, Facebook, WeChat).
+	- Supports quick login through social media platforms.
 
 - **Registration Page**:
 
@@ -63,7 +63,7 @@ This is the welcome page users see when they enter the app, providing a brief in
 
 		- Requires a posting interface where users can upload local images and text.
 
-		- Users should be able to open others' posts to comment and like them.
+		- Users are able to open others' posts to comment and like them.
 
 ### 5. Travel Companion Matching Page
 
@@ -88,8 +88,6 @@ This is the welcome page users see when they enter the app, providing a brief in
 
 - Displays recently viewed local shops, and users can leave comments.
 
-	- This feature is complete, but currently, comments cannot be posted. It is recommended to add a navigation function using Google Maps API.
-
 ### 9. Settings Page
 
 - Users can manage account settings and app preferences, such as notification settings, language preferences, and account privacy options.
@@ -99,14 +97,6 @@ This is the welcome page users see when they enter the app, providing a brief in
 - After clicking on a community or recommended destination, users will be redirected to this page, which displays detailed information about the landmark or attraction.
 
 	- Includes image displays, text descriptions, historical background, user ratings, and comment functionality.
-
-### 11. Messages Page
-
-- Displays the user's chat history with travel companions or community members, allowing users to view and reply to messages.
-
-	- Private chat interface.
-
-	- Group chat interface (for community chats).
 
 # Usage
 Modify the MySQL database file: Change the username and password to your own, usually root and 123456.
