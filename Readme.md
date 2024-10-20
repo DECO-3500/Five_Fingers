@@ -75,11 +75,9 @@ password: 666666
 
 # Main Function
 
-### 1. Welcome page
 
-This is the welcome page users see when they enter the app, providing a brief introduction to the core features of the app, encouraging them to log in or register. Clicking on this will take the user to section 2 (Login Page).
 
-### 2. Login/Registration Page
+### 1. Login/Registration Page
 - **Login Page**:
 
 	-Users can input their username and password here to log in to the app.
@@ -95,7 +93,7 @@ This is the welcome page users see when they enter the app, providing a brief in
 	- Can include a terms page that outlines privacy policies.
 
 
-### 4. Discovery Page
+### 2. Discovery Page
 
 - Users can browse posts from other travelers and share their own travel experiences.
 
