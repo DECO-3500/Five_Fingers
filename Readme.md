@@ -95,13 +95,13 @@ password: 666666
 
 ### 2. Discovery Page
 
-	- Posts are displayed in a grid layout; users can like, comment on posts, and filter content based on tags such as "Following," "Nearby," and "Explore."
+- Posts are displayed in a grid layout; users can like, comment on posts, and filter content based on tags such as "Following," "Nearby," and "Explore."
 
-	- Users can post their own travel content, sharing pictures and text.
+- Users can post their own travel content, sharing pictures and text.
 
-		- Requires a posting interface where users can upload local images and text.
+- Requires a posting interface where users can upload local images and text.
 
-		- Users are able to open others' posts to comment and like them.
+- Users are able to open others' posts to comment and like them.
 
 ### 3. upload page
 
