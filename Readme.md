@@ -34,17 +34,25 @@ CREATE DATABASE [NAME];
 ```
 
 ```bash
-source E:/path_to_your_files/user_info.sql;
+source E:/path_to_your_files/redbook.sql;
 ```
 
 
 In the express-client directory, run the command in the cmd: node app.js.
 
 ```bash
+cd E:/path_to your_files/express-clientt
+```
+
+```bash
 node app.js
 ```
 
 In the my-project directory, run the command in the cmd: npm run serve.
+
+```bash
+cd E:/path_to your_files/my-project
+```
 
 ```bash
 npm install
