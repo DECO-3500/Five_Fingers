@@ -29,6 +29,10 @@ None
  # Usage
 Modify the MySQL database file: Change the username and password to your own, usually root and 123456.
 
+Open MySQL 9.0 Configurator 
+
+When finish it, open MySQL 9.0 Command Line Client
+
 ```bash
 CREATE DATABASE [NAME];
 ```
@@ -36,7 +40,6 @@ CREATE DATABASE [NAME];
 ```bash
 source E:/path_to_your_files/redbook.sql;
 ```
-
 
 In the express-client directory, run the command in the cmd: node app.js.
 
@@ -67,6 +70,10 @@ npm run serve
 ```
 
 paste local to browser   or click [here](http://localhost:8080/)
+
+acct name: admin111
+
+password: 666666
 
 # Main Function
 
