@@ -2,8 +2,6 @@
 A travle website based on Vue.js and Express, including features like comments, navigation, homepage, and lazy loading.
 
 
-# Background
-None
 
 # Table of Contents
 
