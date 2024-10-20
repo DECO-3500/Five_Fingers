@@ -95,8 +95,6 @@ password: 666666
 
 ### 2. Discovery Page
 
-- Users can browse posts from other travelers and share their own travel experiences.
-
 	- Posts are displayed in a grid layout; users can like, comment on posts, and filter content based on tags such as "Following," "Nearby," and "Explore."
 
 	- Users can post their own travel content, sharing pictures and text.
@@ -105,13 +103,21 @@ password: 666666
 
 		- Users are able to open others' posts to comment and like them.
 
-### 5. Travel Companion Matching Page
+### 3. upload page
+
+- Users can browse posts from other travelers and share their own travel experiences.
+
+### 4. flightchat page
+
+- **Flight Chatroom**: Offers the ability to filter flights by date and join chat rooms to chat with fellow travelers.
+
+### 5. Find Companion Page
 
 - Displays potential travel companions, providing information on user profiles, distance, and similar interests.
   
 	- Users can click to view detailed profiles or click the "Match" button to connect with the companion.
 
-	- **Flight Chatroom**: Offers the ability to filter flights by date and join chat rooms to chat with fellow travelers.
+	
 
 ### 6. Profile Page
 - Users can view and update their personal information, including avatar, name, gender, destination, travel dates, and bio.
