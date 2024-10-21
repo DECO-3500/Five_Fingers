@@ -36,6 +36,12 @@ A travle website based on Vue.js and Express, including features like comments, 
 
 [ poster](https://github.com/DECO-3500/Five_Fingers/blob/main/Poster.jpg)
 
+[ Moodboard](https://github.com/DECO-3500/Five_Fingers/blob/main/Moodboard.jfif)
+
+[ Brainstormnotes](https://github.com/DECO-3500/Five_Fingers/blob/main/Brainstorm%20notes.docx)
+
+[ UX goals](https://github.com/DECO-3500/Five_Fingers/blob/main/Ux%20Goals.docx)
+
 
 
 
