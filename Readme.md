@@ -13,7 +13,7 @@ A travle website based on Vue.js and Express, including features like comments, 
 
 [ Prototype screen shot](https://github.com/DECO-3500/Five_Fingers/tree/main/Prototype%20screent%20shot) Here is the final product screenshot.
 
-[ BACKGROUND STUDIES]()
+[ BACKGROUND STUDIES](https://github.com/DECO-3500/Five_Fingers/blob/main/BACKGROUND%20STUDIES.pdf)
 
 [ design proposal](https://github.com/DECO-3500/Five_Fingers/blob/main/design%20proposal.pptx)
 
