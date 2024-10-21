@@ -1,6 +1,46 @@
 # Welcome to Five_Fingers!
 A travle website based on Vue.js and Express, including features like comments, navigation, homepage, and lazy loading.
 
+# The Repository
+
+
+[ WIKI Page](https://github.com/DECO-3500/Five_Fingers/wiki)
+
+[ Design Process and Overview](https://github.com/DECO-3500/Five_Fingers/wiki/Design-Process-and-Overview)
+
+
+[ project](https://github.com/DECO-3500/Five_Fingers/tree/main/project) This is our final product.
+
+[ Prototype screen shot](https://github.com/DECO-3500/Five_Fingers/tree/main/Prototype%20screent%20shot) Here is the final product screenshot.
+
+[ BACKGROUND STUDIES]()
+
+[ design proposal](https://github.com/DECO-3500/Five_Fingers/blob/main/design%20proposal.pptx)
+
+[ Figma board](https://github.com/DECO-3500/Five_Fingers/blob/main/Figma%20board.pdf)
+
+[ Interview 1](https://github.com/DECO-3500/Five_Fingers/blob/main/Interview%201%20.docx)
+
+[ Interview 2 transcript](https://github.com/DECO-3500/Five_Fingers/blob/main/Interview%202%20Transcript%20.pdf)
+
+[ Observation](https://github.com/DECO-3500/Five_Fingers/blob/main/Observation.pdf)
+
+[ suervey responses](https://github.com/DECO-3500/Five_Fingers/blob/main/SURVEY%20RESPONSES%20-%20GROUP%20PROJECT.docx)
+
+[ 3500 prototype1](https://github.com/DECO-3500/Five_Fingers/blob/main/3500%20prototype1.pdf)
+
+[ user test](https://github.com/DECO-3500/Five_Fingers/blob/main/User%20test.pdf)
+
+
+[ standup2prototypescreenshot](https://github.com/DECO-3500/Five_Fingers/tree/main/standup2prototypescreenshot)
+
+[ poster](https://github.com/DECO-3500/Five_Fingers/blob/main/Poster.jpg)
+
+
+
+
+
+
 
 
 # Table of Contents
