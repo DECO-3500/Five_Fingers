@@ -42,6 +42,8 @@ A travle website based on Vue.js and Express, including features like comments, 
 
 [ UX goals](https://github.com/DECO-3500/Five_Fingers/blob/main/Ux%20Goals.docx)
 
+[ Mind map](https://github.com/DECO-3500/Five_Fingers/blob/main/Mindmap.jfif)
+
 
 
 
